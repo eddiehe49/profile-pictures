@@ -1,0 +1,34 @@
+{
+    "avatars": [
+        {
+            "id": 0,
+            "src": "santa-claus.jpg",
+            "words": "The avatar I am using in the social network. It was shot in Dongguan.",
+            "likes": 3
+        },
+        {
+            "id": 1,
+            "src": "HZW.png",
+            "words": "My WeChat avatar. Comes from a screenshot of Chungking Express.",
+            "likes": 2
+        },
+        {
+            "id": 2,
+            "src": "peep.png",
+            "words": "My Notion avatar. This is a notion style avatar.",
+            "likes": 3
+        },
+        {
+            "id": 3,
+            "src": "notion-avatar-1634477551270.png",
+            "words": "This is a notion style avatar.",
+            "likes": 1
+        },
+        {
+            "id": 4,
+            "src": "vue-color-avatar.png",
+            "words": "vue-color-avatar",
+            "likes": 2
+        }
+    ]
+}
