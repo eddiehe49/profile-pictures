@@ -4,31 +4,31 @@
             "id": 0,
             "src": "santa-claus.jpg",
             "words": "The avatar I am using in the social network. It was shot in Dongguan.",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": 1,
             "src": "HZW.png",
-            "words": "My WeChat avatar. Comes from a screenshot of Chungking Express.",
-            "likes": 2
+            "words": "My WeChat avatar from a screenshot of <a href='https://movie.douban.com/subject/1291999/' target='_blank' rel='noopener noreferrer'>Chungking Express</a>.",
+            "likes": 0
         },
         {
             "id": 2,
             "src": "peep.png",
-            "words": "My Notion avatar. This is a notion style avatar.",
-            "likes": 3
+            "words": "My Notion avatar. However, Ding Yi, the host of <a href='https://newsletter.dex.group/' target='_blank' rel='noopener noreferrer'>DEX</a> considerd it a little bit boring in this <a href='https://newsletter.dex.group/123/' target='_blank' rel='noopener noreferrer'>newsletter</a>.",
+            "likes": 0
         },
         {
             "id": 3,
             "src": "notion-avatar-1634477551270.png",
-            "words": "This is a notion style avatar.",
-            "likes": 1
+            "words": "Also a notion style avatar from this <a href='https://notion-avatar.vercel.app/zh' target='_blank' rel='noopener noreferrer'>site</a> which coded by <a href='https://mayandev.top/' target='_blank' rel='noopener noreferrer'>Phill</a>, a Chinese developer.",
+            "likes": 0
         },
         {
             "id": 4,
             "src": "vue-color-avatar.png",
-            "words": "vue-color-avatar",
-            "likes": 2
+            "words": "A Vue color avatar from this <a href='https://vue-color-avatar.vercel.app/' target='_blank' rel='noopener noreferrer'>site</a>. By the way, the <a href='https://www.figma.com/community/file/829741575478342595' target='_blank' rel='noopener noreferrer'>Avatar Illustration System</a> is available in figma community.",
+            "likes": 0
         }
     ]
 }

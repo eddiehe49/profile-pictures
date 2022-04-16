@@ -31,5 +31,5 @@ def getKrates():
 
 
 if __name__ == "__main__":
-    # putKrates()
-    getKrates()
+    putKrates()
+    # getKrates()
