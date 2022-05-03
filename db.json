@@ -1,33 +1,33 @@
 {
-    "avatars": [
+    "profilePictures": [
         {
             "id": 0,
             "src": "santa-claus.jpg",
-            "words": "The avatar I am using in the social network. It was shot in Dongguan.",
+            "words": "My social network profile picture. It was shot in Dongguan.",
             "likes": 0
         },
         {
             "id": 1,
             "src": "HZW.png",
-            "words": "My WeChat avatar from a screenshot of <a href='https://movie.douban.com/subject/1291999/' target='_blank' rel='noopener noreferrer'>Chungking Express</a>.",
+            "words": "My WeChat profile picture from a screenshot of <a href='https://movie.douban.com/subject/1291999/' target='_blank' rel='noopener noreferrer'>Chungking Express</a>.",
             "likes": 0
         },
         {
             "id": 2,
             "src": "peep.png",
-            "words": "My Notion avatar. However, Ding Yi, the host of <a href='https://newsletter.dex.group/' target='_blank' rel='noopener noreferrer'>DEX</a> considerd it a little bit boring in this <a href='https://newsletter.dex.group/123/' target='_blank' rel='noopener noreferrer'>newsletter</a>.",
+            "words": "My Notion avatar from this <a href='https://cvbox.org/' target='_blank' rel='noopener noreferrer'>notion style avatar generator</a>.",
             "likes": 0
         },
         {
             "id": 3,
             "src": "notion-avatar-1634477551270.png",
-            "words": "Also a notion style avatar from this <a href='https://notion-avatar.vercel.app/zh' target='_blank' rel='noopener noreferrer'>site</a> which coded by <a href='https://mayandev.top/' target='_blank' rel='noopener noreferrer'>Phill</a>, a Chinese developer.",
+            "words": "Also a notion style avatar from this <a href='https://notion-avatar.vercel.app/zh' target='_blank' rel='noopener noreferrer'>Notion Avatar Maker</a> which coded by <a href='https://mayandev.top/' target='_blank' rel='noopener noreferrer'>Phill</a>, a Chinese developer.",
             "likes": 0
         },
         {
             "id": 4,
             "src": "vue-color-avatar.png",
-            "words": "A Vue color avatar from this <a href='https://vue-color-avatar.vercel.app/' target='_blank' rel='noopener noreferrer'>site</a>. By the way, the <a href='https://www.figma.com/community/file/829741575478342595' target='_blank' rel='noopener noreferrer'>Avatar Illustration System</a> is available in figma community.",
+            "words": "A Vue color avatar from this <a href='https://vue-color-avatar.vercel.app/' target='_blank' rel='noopener noreferrer'>Vue Color Avatar</a> website. By the way, the <a href='https://www.figma.com/community/file/829741575478342595' target='_blank' rel='noopener noreferrer'>Avatar Illustration System</a> is available in figma community.",
             "likes": 0
         }
     ]
