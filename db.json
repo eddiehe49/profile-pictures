@@ -27,7 +27,7 @@
         {
             "id": 4,
             "src": "vue-color-avatar.png",
-            "words": "A Vue color avatar from this <a href='https://vue-color-avatar.vercel.app/' target='_blank' rel='noopener noreferrer'>Vue Color Avatar</a> website. By the way, the <a href='https://www.figma.com/community/file/829741575478342595' target='_blank' rel='noopener noreferrer'>Avatar Illustration System</a> is available in figma community.",
+            "words": "A Vue color avatar from this <a href='https://vue-color-avatar.vercel.app/' target='_blank' rel='noopener noreferrer'>Vue Color Avatar</a> website. The <a href='https://www.figma.com/community/file/829741575478342595' target='_blank' rel='noopener noreferrer'>Avatar Illustration System</a> is available in figma community.",
             "likes": 0
         }
     ]
