@@ -7,25 +7,25 @@
             "likes": 0
         },
         {
-            "id": 1,
-            "src": "HZW.png",
+            "id": 0,
+            "src": "HZW.jpg",
             "words": "My WeChat profile picture from a screenshot of <a href='https://movie.douban.com/subject/1291999/' target='_blank' rel='noopener noreferrer'>Chungking Express</a>.",
             "likes": 0
         },
         {
-            "id": 2,
+            "id": 0,
             "src": "peep.png",
             "words": "My Notion avatar from this <a href='https://cvbox.org/' target='_blank' rel='noopener noreferrer'>notion style avatar generator</a>.",
             "likes": 0
         },
         {
-            "id": 3,
+            "id": 0,
             "src": "notion-avatar-1634477551270.png",
             "words": "Also a notion style avatar from this <a href='https://notion-avatar.vercel.app/zh' target='_blank' rel='noopener noreferrer'>Notion Avatar Maker</a> which coded by <a href='https://mayandev.top/' target='_blank' rel='noopener noreferrer'>Phill</a>, a Chinese developer.",
             "likes": 0
         },
         {
-            "id": 4,
+            "id": 0,
             "src": "vue-color-avatar.png",
             "words": "A Vue color avatar from this <a href='https://vue-color-avatar.vercel.app/' target='_blank' rel='noopener noreferrer'>Vue Color Avatar</a> website. The <a href='https://www.figma.com/community/file/829741575478342595' target='_blank' rel='noopener noreferrer'>Avatar Illustration System</a> is available in figma community.",
             "likes": 0
