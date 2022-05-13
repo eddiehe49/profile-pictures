@@ -1,2 +1,2 @@
-handleJsonbinProfilePictures.py
-handleKratesProfilePictures.py
+JSONBIN_profile_pictures_handler.py
+Krates_profile_pictures_handler.py
