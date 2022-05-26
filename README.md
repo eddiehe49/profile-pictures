@@ -6,7 +6,7 @@ Link: [eddiehe.super.site/my-profile-pictures-favicons](https://eddiehe.super.si
 
 ## JSON
 
-The db.json which is for JSONPlaceholse stores the basic format of the data.
+The `db.json` which is for JSONPlaceholse stores the basic format of the data.
 
 ## Websites
 
